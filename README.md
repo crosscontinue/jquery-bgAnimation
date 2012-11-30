@@ -1,4 +1,4 @@
-bgAnimation
+jquery-bgAnimation
 ===========
 
 指定ブロックに設定した背景画像をランダムでアニメーションさせるプラグインです
